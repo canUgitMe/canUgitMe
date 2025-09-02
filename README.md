@@ -1,14 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arijit Adhikary
 ========================================================================================================================================
 
-Software Developer
-------------------
+💻 Software Developer | 🌍 Based in Kolkata  
+----------------------------------------------------------------------------------------------------------------------------------------
 
-Innovative and detail-oriented developer with strengths in software development, database management, and crafting intuitive user interfaces. Combines strong problem-solving skills with a creative edge from a passion for writing and poetry, bringing both technical precision and artistic expression to digital solutions. Driven to create impactful, user-focused experiences while continuously expanding technical expertise.
+I’m an **innovative and detail-oriented developer** with strong foundations in **software development, database management, and UI/UX design**.  
+Blending **problem-solving skills** with my **creative passion for writing and poetry**, I bring both **technical precision** and **artistic expression** to digital solutions.  
 
-* 🌍  I'm based in Kolkata
-* ✉️  You can contact me at [arijitadhikary777@gmail.com](mailto:arijitadhikary777@gmail.com)
-* 🧠  I'm currently learning Machine Learning, GenAI & next.js
+⚡ Driven to build **impactful, user-focused experiences** while continuously learning and experimenting with new technologies.  
+
+---
+
+### 🌱 Currently Exploring
+- 🤖 Machine Learning & Generative AI  
+- ⚡ Next.js & Full-Stack Development  
+- 📊 Advanced Database Systems  
+
 
 
 ### Socials
