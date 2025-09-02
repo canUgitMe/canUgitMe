@@ -17,6 +17,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - ⚡ Next.js & Full-Stack Development  
 - 📊 Advanced Database Systems  
 
+###  Alongside Tech:
+- 🎶 **Music Aficionado** – drawing creativity and focus from rhythm & sound  
+- 🎮 **Passionate Gamer** – cultivating strategy, adaptability, and teamwork  
+- 📝 **Poetry Enthusiast** – blending imagination with expression to inspire fresh ideas  
 
 
 ### Socials 
