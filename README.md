@@ -4,7 +4,7 @@ Sup! My name is Arijit Adhikary
 💻 Software Developer | 🌍 Based in Kolkata  
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-- 💻 **BCA Student** @IEM Kolkata 
+- 🎓 **BCA Student** @IEM Kolkata 
 - 💻 **Strong Foundations** in software development, database management, and UI/UX design  
 - 🧩 **Problem-Solver** who thrives on tackling challenges with logical precision  
 - ✍️ **Creative Thinker** blending technical expertise with a passion for writing & poetry  
