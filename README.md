@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💻 Software Developer | 🌍 Based in Kolkata  
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-I’m an **innovative and detail-oriented developer** with strong foundations in **software development, database management, and UI/UX design**.  
-Blending **problem-solving skills** with my **creative passion for writing and poetry**, I bring both **technical precision** and **artistic expression** to digital solutions.  
+- 💻 **Strong Foundations** in software development, database management, and UI/UX design  
+- 🧩 **Problem-Solver** who thrives on tackling challenges with logical precision  
+- ✍️ **Creative Thinker** blending technical expertise with a passion for writing & poetry  
+- 🎨 **Balance of Logic & Art** — delivering solutions that are both functional and expressive  
+- ⚡ **Impact-Driven**: focused on building user-centered experiences with lasting value  
+- 🚀 **Lifelong Learner**: constantly exploring new technologies and innovative approaches  
 
-⚡ Driven to build **impactful, user-focused experiences** while continuously learning and experimenting with new technologies.  
-
----
 
 ### 🌱 Currently Exploring
 - 🤖 Machine Learning & Generative AI  
