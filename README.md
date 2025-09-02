@@ -4,15 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Innovative and detail-oriented developer with strengths in software development, database
-
-management, and crafting intuitive user interfaces. Combines strong problem-solving skills with a
-
-creative edge from a passion for writing and poetry, bringing both technical precision and artistic
-
-expression to digital solutions. Driven to create impactful, user-focused experiences while continuously
-
-expanding technical expertise.
+Innovative and detail-oriented developer with strengths in software development, database management, and crafting intuitive user interfaces. Combines strong problem-solving skills with a creative edge from a passion for writing and poetry, bringing both technical precision and artistic expression to digital solutions. Driven to create impactful, user-focused experiences while continuously expanding technical expertise.
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [arijitadhikary777@gmail.com](mailto:arijitadhikary777@gmail.com)
